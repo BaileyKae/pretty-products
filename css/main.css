@@ -21,18 +21,21 @@ h2 {
   font-size: 2rem;
   color: #6f00e7;
   text-align: center;
+  margin: auto;
+  padding: 0;
 }
 
 img {
-  max-width: 20rem;
+  max-width: 15rem;
 }
 
 p {
   font-family: Karma, serif;
   margin-bottom: auto;
+  margin-top: auto;
   text-align: center;
   font-size: 1.4rem;
-  padding: .5em 1.5em .7em;
+  padding: 0;
 }
 
 li:first-of-type {
@@ -85,4 +88,8 @@ ul li {
 
 ul a {
   font-size: 1.4rem;
+}
+
+.banner-img {
+  margin-left: 3rem;
 }
